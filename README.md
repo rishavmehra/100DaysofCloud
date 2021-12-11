@@ -15,7 +15,7 @@
 - [![LIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavmehra/)
 
 ## Stepping out the door
-- [ ] ☁️ 0 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 0 > [My Initial](Journey/000/Readme.md)
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
