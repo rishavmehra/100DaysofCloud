@@ -1,21 +1,23 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**Add a cover photo like:**
+**Topics Covered:**
 ![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/000/day0.png)
 
-# New post title here
+# AWS History and Basic Overview
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I choice this topic for my day, because you need to clear your basic first. So, I choose these topics
 
 ## Use Case
 
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ Today I just clear my basic of cloud computing. So there is some basic use cases I read about like: Trade Capital For Variable Expenses
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- ✍️ Here is my Notes:
+-   <h3><a href="https://github.com/rishavmehra/100DaysofCloud/blob/main/Notes/Day0.pdf"> Take a Look on My notes</a></h3>
+   <h3><a href="https://github.com/rishavmehra/100DaysofCloud/raw/main/Notes/Day0.pdf"> Click here for Download my Notes</a></h3>
 
 ## Social Proof
 
