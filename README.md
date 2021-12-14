@@ -17,15 +17,16 @@
 ## Stepping out the door
 - [ ] ☁️ 0 > [My Initial Day](Journey/000/Readme.md)
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [My Third Day](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 2 > [My second Day](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [My Third Day](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [My forth Day](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [My fifth Day](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [My sixth Day](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [My seventh Day](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [My eighth Day](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [](Journey/0010/Readme.md)
+
 
 ## Walking down the road
 
