@@ -3,7 +3,7 @@
 **Topics Covered:**
 ![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/005/day5.png)
 
-# Elactic IP, AWS-S3(Simple Storage Service)
+# S3
 
 ## Introduction
 
