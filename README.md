@@ -24,17 +24,17 @@
 - [ ] ☁️ 6 > [My sixth Day](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [My seventh Day](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [My eighth Day](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/0010/Readme.md)
+- [ ] ☁️ 9 > [My ninth Day](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [My tenth Day](Journey/0010/Readme.md)
 
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 11 > [My eleventh Day](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [My twelfth Day](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [My Thirteenth Day](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [My Fourteenth Day](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [My Fifteenth Day](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
