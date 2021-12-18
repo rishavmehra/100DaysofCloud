@@ -1,7 +1,7 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Topics Covered:**
-![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/013/day13.png)
+![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/013/Day13.png)
 
 # Databases
 
