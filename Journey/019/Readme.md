@@ -1,15 +1,15 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
 **Topics Covered:**
-![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/021/day21.png)
+![placeholder image](https://github.com/rishavmehra/100DaysofCloud/blob/main/Journey/019/day19.png)
 
-# Cloud Monitoring
+# AWS Global Infrastructure
 
 ## Cloud Research
 
 - ✍️ Here is my Notes:
--   <h3><a href="https://github.com/rishavmehra/100DaysofCloud/blob/main/Notes/Day21.pdf"> Take a Look on My notes</a></h3>
--    <h3><a href="https://github.com/rishavmehra/100DaysofCloud/raw/main/Notes/Day21.pdf"> Click here for Download my Notes</a></h3>
+-   <h3><a href="https://github.com/rishavmehra/100DaysofCloud/blob/main/Notes/Day19.pdf"> Take a Look on My notes</a></h3>
+-    <h3><a href="https://github.com/rishavmehra/100DaysofCloud/raw/main/Notes/Day19.pdf"> Click here for Download my Notes</a></h3>
 
 ## Social Proof
 
