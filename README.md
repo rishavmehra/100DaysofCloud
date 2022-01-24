@@ -38,25 +38,25 @@
 - [X] ☁️ 16 > [My Sixteenth Day](Journey/016/Readme.md)
 - [X] ☁️ 17 > [My Seventeenth Day](Journey/017/Readme.md)
 - [X] ☁️ 18 > [My Eighteenth Day](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [My Nineteenth Day](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [X] ☁️ 19 > [My Nineteenth Day](Journey/019/Readme.md)
+- [X] ☁️ 20 > [Cloud Integration,](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [X] ☁️ 21 > [Cloud Monitoring](Journey/021/Readme.md)
+- [X] ☁️ 22 > [Cloud Monitroing Continued...](Journey/022/Readme.md)
+- [X] ☁️ 23 > [VPC & Networking](Journey/023/Readme.md)
+- [X] ☁️ 24 > [Security And Compliance](Journey/024/Readme.md)
+- [X] ☁️ 25 > [AWS Secret Manager](Journey/025/Readme.md)
+- [X] ☁️ 26 > [Rekognition,Transcribe,Polly, translate, Lex & connect, SageMaker etc...](Journey/026/Readme.md)
+- [X] ☁️ 27 > [Billing & Costing Tools](Journey/027/Readme.md)
+- [X] ☁️ 28 > [Advance identity](Journey/028/Readme.md)
+- [X] ☁️ 29 > [Project making> Serverless Application using AWS-Serverless](Journey/029/Readme.md)
+- [X] ☁️ 30 > [Revision](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
-- [ ] ☁️ 31 > [](Journey/031/Readme.md)
+- [X] ☁️ 31 > [AWS Resilience Architecture](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
